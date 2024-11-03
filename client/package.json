@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@atproto/api": "^0.13.14",
+    "@atproto/jwk-jose": "^0.1.2",
+    "@atproto/oauth-client-node": "^0.2.0",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.8.6",
+    "express": "^4.21.1",
+    "tslib": "^2.8.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  },
+  "type": "module"
+}
